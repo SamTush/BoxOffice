@@ -3,6 +3,8 @@ $secondary-color: #29524a;
 $secondary-color-light: #94a187;
 $tertairy-color: #f95738;
 
+@import "bootstrap/scss/bootstrap";
+
 * {
   box-sizing: border-box;
   margin: 0;
