@@ -14,7 +14,12 @@ $tertairy-color: #f95738;
 body {
   background-color: $secondary-color;
 
-  .image {
+  .image,
+  .image2 {
     width: 180px;
+  }
+
+  .show {
+    width: 100%;
   }
 }
