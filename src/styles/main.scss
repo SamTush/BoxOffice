@@ -1,0 +1,18 @@
+$primary-color: #06070e;
+$secondary-color: #29524a;
+$secondary-color-light: #94a187;
+$tertairy-color: #f95738;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: $secondary-color;
+
+  .image {
+    width: 180px;
+  }
+}
